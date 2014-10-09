@@ -7,7 +7,7 @@ Android API 文档
 
 本来想把整个文档放到Github上发现太大也没有必要。所以就打个压缩包放在百度网盘得了。借用这块宝地做个链接。
 
-下载地址：http://pan.baidu.com/s/1hq3Rep2
+下载地址：http://pan.baidu.com/s/1dDu3LVb
 
 解压以后，用浏览器打开就可以看了。速度还挺快 ：）
 
